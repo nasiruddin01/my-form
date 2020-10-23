@@ -1,5 +1,7 @@
 # my-form
+This site is build in Vue.js
 
+Site live link: https://form-validatorbd.netlify.app/
 ## Project setup
 ```
 npm install
